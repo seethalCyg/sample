@@ -28,6 +28,3 @@ or Bitcoin:
 Alternatively, you can become a [Github Sponsor](https://github.com/sponsors/RobinLinus).
 
 Thanks a lot for supporting free and open software!
-
-
-
